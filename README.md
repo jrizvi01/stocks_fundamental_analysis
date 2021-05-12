@@ -1,6 +1,6 @@
 # stocks_fundamental_analysis
 
-##Brief Background
+## Brief Background
 This application utilizes publicaly traded companies' financial data such as Equity (ROE), Free Cash flow over equity, Forward growth rate, and valuation in order to access the viability of an investment in a publicly traded company.
 
 ## Who it is for?
