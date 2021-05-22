@@ -1,12 +1,8 @@
 # stocks_fundamental_analysis
 
-Technologies
-New library: FundamentalAnalysis
-Tools utilized:
-API & .env
-Pandas
-Hvplot
-CSV file interaction
+Technologies New library: FundamentalAnalysis
+Tools utilized: API & .env Pandas Hvplot CSV file
+interaction
 User input
 
 ## Brief Background
