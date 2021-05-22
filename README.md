@@ -1,5 +1,14 @@
 # stocks_fundamental_analysis
 
+Technologies
+New library: FundamentalAnalysis
+Tools utilized:
+API & .env
+Pandas
+Hvplot
+CSV file interaction
+User input
+
 ## Brief Background
 This application utilizes publicly traded companies' financial data such as Equity (ROE), Free Cash flow over equity, Forward growth rate, and valuation in order to access the viability of an investment in a publicly traded company.
 
