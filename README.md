@@ -1,14 +1,14 @@
-# stocks_fundamental_analysis
+# Stocks_fundamental_analysis
 
-New library: FundamentalAnalysis
+## New library: FundamentalAnalysis
 Pip install fundamental analysis
-pTools utilized:
+## pTools utilized:
 * API & .env
 * Pandas
 * Hvplot
 * User Input
 * CSV file interaction
-Approach of the Project - Code Structure
+## Approach of the Project - Code Structure
 
 1. Make ticker list from csv file with user input
 2. Use “for loop” for the ticker list
