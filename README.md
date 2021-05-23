@@ -20,7 +20,8 @@ Pip install fundamental analysis
 8. Display dataframes and charts
 
 ## Example
-
+https://github.com/jrizvi01/stocks_fundamental_analysis/blob/main/Resources/FreeCashoutput.png
+https://github.com/jrizvi01/stocks_fundamental_analysis/blob/main/Resources/ROEoutput.png
 
 
 ## Brief Background
