@@ -11,7 +11,7 @@ Pip install fundamental analysis
 ## Approach of the Project - Code Structure
 
 1. Make ticker list from csv file with user input
-2. Use �for loop� for the ticker list
+2. Use “for loop” for the ticker list
 3. Define dataframes and specify columns
 4. Extract data from databases using API
 5. Prompt user input where needed
@@ -20,7 +20,12 @@ Pip install fundamental analysis
 8. Display dataframes and charts
 
 ## Example
-
+<img
+src=“images/SubPronouns.jpg”
+raw=true
+alt=“Subject Pronouns”
+style=“margin-right: 10px;”
+/>
 
 
 ## Brief Background
