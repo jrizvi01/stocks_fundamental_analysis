@@ -19,6 +19,10 @@ Pip install fundamental analysis
 7. Insert data into dataframes
 8. Display dataframes and charts
 
+## Example
+
+
+
 ## Brief Background
 This application utilizes publicly traded companies' financial data such as Equity (ROE), Free Cash flow over equity, Forward growth rate, and valuation in order to access the viability of an investment in a publicly traded company.
 
