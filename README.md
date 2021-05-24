@@ -41,15 +41,15 @@ pTools utilized:
 
 
 ## Examples
-##ROE Output
+# ROE Output
 ![Plot](https://github.com/jrizvi01/stocks_fundamental_analysis/blob/main/Resources/ROEoutput.png)
-#Free Cash Flow Output
+# Free Cash Flow Output
 ![Plot](https://github.com/jrizvi01/stocks_fundamental_analysis/blob/main/Resources/FreeCashoutput.png)
-#TTM Growth Rate
+# TTM Growth Rate
 ![Plot](https://github.com/jrizvi01/stocks_fundamental_analysis/blob/main/Resources/TTMgrowth.png)
-#Valuation Output
+# Valuation Output
 ![Plot](https://github.com/jrizvi01/stocks_fundamental_analysis/blob/main/Resources/Valoutput.png)
-#Results of the Project Comparison
+# Results of the Project Comparison
 ![Plot](https://github.com/jrizvi01/stocks_fundamental_analysis/blob/main/Resources/Comparison.png)
 
 
