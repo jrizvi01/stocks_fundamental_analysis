@@ -21,9 +21,18 @@ Currently, there are not many applications available which look at all the eleme
 8. Display dataframes and charts
 
 ## Technology
-## New library: FundamentalAnalysis
+
+Before Execute the Python Code in "stocks_analysis.ipynb' Please install new library in your environment.
+[fundamentalAnalysis] (https://pypi.org/project/FundamentalAnalysis/) - FundamentalAnalysis
+
 Pip install fundamental analysis
-## pTools utilized:
+Functions included
+- Detials of companies
+- financial Statement
+- ratios
+- Stock Data
+
+pTools utilized:
 * API & .env
 * Pandas
 * Hvplot
