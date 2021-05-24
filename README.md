@@ -41,7 +41,7 @@ pTools utilized:
 
 
 ## Examples
-ROE Output
+!OE Output
 ![Plot](https://github.com/jrizvi01/stocks_fundamental_analysis/blob/main/Resources/ROEoutput.png)
 Free Cash Flow Output
 ![Plot](https://github.com/jrizvi01/stocks_fundamental_analysis/blob/main/Resources/FreeCashoutput.png)
