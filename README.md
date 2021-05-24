@@ -21,7 +21,7 @@ Currently, there are not many applications available which look at all the eleme
 7. Insert data into dataframes
 8. Display dataframes and charts
 
-## Technology
+## Technologies
 
 Before Execute the Python Code in 'stocks_analysis.ipynb' Please install new library in your environment
 
@@ -39,7 +39,7 @@ Functions included
 
 pTools utilized:
 * [pandas](https://pandas.pydata.org/pandas-docs/stable/) - Data analysis module
-* [hvplot](https://hvplot.holoviz.org/getting_started/index.html) - High-level plotting API for PyData ecosystem built on HoloViews
+* [hvplot](https://hvplot.holoviz.org/getting_started/index.html) - High-level plotting API for PyData ecosystem built
 * User Input
 * API & .env
 * CSV file interaction
