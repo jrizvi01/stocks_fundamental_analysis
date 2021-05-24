@@ -37,7 +37,7 @@ Functions included
 - ratios
 - Stock Data
 
-pTools utilized:
+Tools utilized:
 * [pandas](https://pandas.pydata.org/pandas-docs/stable/) - Data analysis module
 * [hvplot](https://hvplot.holoviz.org/getting_started/index.html) - High-level plotting API for PyData ecosystem built
 * User Input
