@@ -23,7 +23,7 @@ Currently, there are not many applications available which look at all the eleme
 ## Technology
 
 Before Execute the Python Code in 'stocks_analysis.ipynb' Please install new library in your environment.
-[fundamentalAnalysis](https://pypi.org/project/FundamentalAnalysis/) - FundamentalAnalysis
+[FundamentalAnalysis](https://pypi.org/project/FundamentalAnalysis/) - FundamentalAnalysis 0.2.9
 
 Pip install fundamental analysis
 Functions included
@@ -33,10 +33,10 @@ Functions included
 - Stock Data
 
 pTools utilized:
-* API & .env
-* Pandas
-* Hvplot
+* [pandas](https://pandas.pydata.org/pandas-docs/stable/) - Data analysis module
+* [hvplot](https://hvplot.holoviz.org/getting_started/index.html) - High-level plotting API for PyData ecosystem built on HoloViews
 * User Input
+* API & .env
 * CSV file interaction
 
 
