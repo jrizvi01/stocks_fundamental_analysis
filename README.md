@@ -40,11 +40,16 @@ pTools utilized:
 * CSV file interaction
 
 
-## Example
-![Plot](https://github.com/jrizvi01/stocks_fundamental_analysis/blob/main/Resources/FreeCashoutput.png)
+## Examples
+ROE Output
 ![Plot](https://github.com/jrizvi01/stocks_fundamental_analysis/blob/main/Resources/ROEoutput.png)
-![Plot](https://github.com/jrizvi01/stocks_fundamental_analysis/blob/main/Resources/Valoutput.png)
+Free Cash Flow Output
+![Plot](https://github.com/jrizvi01/stocks_fundamental_analysis/blob/main/Resources/FreeCashoutput.png)
+TTM Growth Rate
 ![Plot](https://github.com/jrizvi01/stocks_fundamental_analysis/blob/main/Resources/TTMgrowth.png)
+Valuation Output
+![Plot](https://github.com/jrizvi01/stocks_fundamental_analysis/blob/main/Resources/Valoutput.png)
+Results of the Project Comparison
 ![Plot](https://github.com/jrizvi01/stocks_fundamental_analysis/blob/main/Resources/Comparison.png)
 
 
