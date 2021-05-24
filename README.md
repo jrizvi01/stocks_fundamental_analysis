@@ -34,6 +34,8 @@ Pip install fundamental analysis
 ## Example
 ![Plot](https://github.com/jrizvi01/stocks_fundamental_analysis/blob/main/Resources/FreeCashoutput.png)
 ![Plot](https://github.com/jrizvi01/stocks_fundamental_analysis/blob/main/Resources/ROEoutput.png)
-
+![Plot](https://github.com/jrizvi01/stocks_fundamental_analysis/blob/main/Resources/Valoutput.png)
+![Plot](https://github.com/jrizvi01/stocks_fundamental_analysis/blob/main/Resources/TTMgrowth.png)
+![Plot](https://github.com/jrizvi01/stocks_fundamental_analysis/blob/main/Resources/Comparison.png)
 
 
