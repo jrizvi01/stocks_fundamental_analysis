@@ -22,7 +22,8 @@ Currently, there are not many applications available which look at all the eleme
 
 ## Technology
 
-Before Execute the Python Code in 'stocks_analysis.ipynb' Please install new library in your environment.
+Before Execute the Python Code in 'stocks_analysis.ipynb' Please install new library in your environment
+
 [FundamentalAnalysis](https://pypi.org/project/FundamentalAnalysis/) - FundamentalAnalysis 0.2.9
 
 Pip install fundamental analysis
